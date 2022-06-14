@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "n5Now.PermisosAPI", "n5Now.PermisosAPI\n5Now.PermisosAPI.csproj", "{1C9613BB-4BDB-4B08-B6C0-42839E96B0DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "n5no5.PermisosWebApi.UnitTest", "n5no5.PermisosWebApi.UnitTest\n5no5.PermisosWebApi.UnitTest.csproj", "{D5401B7A-8E3A-459E-B165-A1AFCDC12EEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C9613BB-4BDB-4B08-B6C0-42839E96B0DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C9613BB-4BDB-4B08-B6C0-42839E96B0DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C9613BB-4BDB-4B08-B6C0-42839E96B0DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C9613BB-4BDB-4B08-B6C0-42839E96B0DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5401B7A-8E3A-459E-B165-A1AFCDC12EEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5401B7A-8E3A-459E-B165-A1AFCDC12EEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5401B7A-8E3A-459E-B165-A1AFCDC12EEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5401B7A-8E3A-459E-B165-A1AFCDC12EEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14FCCFD1-A3DE-4355-BB81-5D18EEC44007}
+	EndGlobalSection
+EndGlobal
